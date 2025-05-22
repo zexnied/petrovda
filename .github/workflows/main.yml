@@ -47,4 +47,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: zexnied/petrovda_kr:latest
+          tags: zexnied/:latest
